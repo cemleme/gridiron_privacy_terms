@@ -9,7 +9,7 @@ Legal and support pages for the mobile game **Gridiron Idle** (iOS and Android).
 
 ## Support
 
-For help with the game, or with anything on these pages, email **[CONTACT EMAIL]**.
+For help with the game, or with anything on these pages, email **cemadil@gmail.com**.
 
 When reporting a problem, it helps to include your device model, your operating system version, and a short description of what happened. Please **do not** send screenshots containing personal information.
 

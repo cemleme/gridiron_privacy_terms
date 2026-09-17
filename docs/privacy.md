@@ -1,6 +1,6 @@
 # Gridiron Idle — Privacy Policy
 
-**Effective date:** [EFFECTIVE DATE]
+**Effective date:** 17.09.2026
 **Applies to:** the mobile game **Gridiron Idle** for iOS and Android
 **Operator:** Gridiron Idle ("we", "us", "our")
 
@@ -138,7 +138,7 @@ Gridiron Idle is a game for a general audience. It **is not directed at children
 
 We do not knowingly collect personal information from children. The game has no accounts, no chat, no messaging, no content uploads, and no way for a child to give us information. The app's store listings are rated for a general audience.
 
-If you are a parent or guardian and believe a child has provided personal information through the game, contact us at **[CONTACT EMAIL]** and we will help.
+If you are a parent or guardian and believe a child has provided personal information through the game, contact us at our email and we will help.
 
 Because the game shows advertising, we recommend that parents review their device's ad-personalisation settings, as described in section 6.
 
@@ -197,7 +197,7 @@ If we change this policy, we will update the effective date above and publish th
 
 Questions about this policy or about privacy in Gridiron Idle:
 
-**Email:** [CONTACT EMAIL]
+**Email:** cemadil@gmail.com
 
 ---
 

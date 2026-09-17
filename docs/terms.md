@@ -1,6 +1,6 @@
 # Gridiron Idle — Terms of Use
 
-**Effective date:** [EFFECTIVE DATE]
+**Effective date:** 17.09.2026
 **Applies to:** the mobile game **Gridiron Idle** for iOS and Android
 **Operator:** Gridiron Idle ("we", "us", "our")
 
@@ -100,7 +100,7 @@ Nothing in these Terms excludes or limits any warranty or right you have under m
 
 To the fullest extent permitted by law, we are not liable for any indirect, incidental, special, consequential, or punitive damages, or for any loss of data, game progress, profits, or goodwill, arising out of or relating to your use of, or inability to use, the Game — including progress lost through a reset, a device change, a lost device, or a technical fault.
 
-Because the Game is provided free of charge, our total aggregate liability to you for all claims relating to the Game is limited to the greater of (a) the amount you paid us for the Game, which is zero, or (b) **EUR 50**.
+Because the Game is provided free of charge, our total aggregate liability to you for all claims relating to the Game is limited to the greater of the amount you paid us for the Game, which is zero
 
 Nothing in these Terms limits liability that cannot be limited by law, including liability for death or personal injury caused by negligence, or for fraud or fraudulent misrepresentation.
 
@@ -124,7 +124,7 @@ These Terms are governed by the laws of the **Republic of Türkiye**, without re
 
 Nothing in this section takes away any protection you have under the mandatory consumer law of the country in which you live, or your right to bring proceedings in your local courts where the law gives you that right.
 
-Before starting formal proceedings, please contact us at **[CONTACT EMAIL]** so we can try to resolve the matter informally.
+Before starting formal proceedings, please contact us at our email so we can try to resolve the matter informally.
 
 ---
 
@@ -143,7 +143,7 @@ Before starting formal proceedings, please contact us at **[CONTACT EMAIL]** so 
 
 Questions about these Terms:
 
-**Email:** [CONTACT EMAIL]
+**Email:** cemadil@gmail.com
 
 ---
 
